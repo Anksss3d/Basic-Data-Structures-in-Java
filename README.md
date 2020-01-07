@@ -2,20 +2,20 @@
 All Basic data structures implemented using Java.
 This repository contains following data structures implementations in separate java modules.
   1. Arrays
-    - Linear Arrays
-    - 2-dimensional Arrays
+     - Linear Arrays
+     - 2-dimensional Arrays
   2. Linked Lists
-    a. Single Linear Linked List
-    b. Single Circular Linked List
-    c. Double Linear Linked List
-    d. Double Circular Linked List
+     - Single Linear Linked List
+     - Single Circular Linked List
+     - Double Linear Linked List
+     - Double Circular Linked List
   3. Stack
-    a. Stack using Arrays
-    b. Stack using Linked List
+     - Stack using Arrays
+     - Stack using Linked List
   4. Queue
-    a. Queue using Array
-    b. Circular Queue using Array
-    c. Queue using Linked List
+     - Queue using Array
+     - Circular Queue using Array
+     - Queue using Linked List
     
 All above data structures are implemented in best time complexity possible. 
 Every data structure has all required functions to create, manipulate, traverse and delete the data structure.
