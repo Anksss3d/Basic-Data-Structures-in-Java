@@ -2,8 +2,8 @@
 All Basic data structures implemented using Java.
 This repository contains following data structures implementations in separate java modules.
   1. Arrays
-    a. Linear Arrays
-    b. 2-dimensional Arrays
+    i. Linear Arrays
+    ii. 2-dimensional Arrays
   2. Linked Lists
     a. Single Linear Linked List
     b. Single Circular Linked List
